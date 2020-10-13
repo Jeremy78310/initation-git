@@ -20,4 +20,3 @@ git checkout = permet de naviguer entre les branches
 git merge = permet de fusionner notre branche avec la branche principale du projet
 git push = permet d'envoyer notre derneiers modifications en ligne
 git pull = permet de recupereer du travail en ligne vers le local
-git 
